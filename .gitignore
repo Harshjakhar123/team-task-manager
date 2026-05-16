@@ -1,0 +1,32 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# --- Databases / local data ---
+*.db
+*.sqlite3
+backend/taskmanager.db
+
+# --- Node / frontend ---
+node_modules/
+frontend/dist/
+backend/static/
+
+# --- Environment ---
+.env
+.env.local
+*.env
+!*.env.example
+
+# --- Editor / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Claude Code local settings ---
+.claude/
