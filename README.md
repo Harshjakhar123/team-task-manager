@@ -4,7 +4,7 @@ A full-stack web app where teams create projects, assign tasks, and track
 progress with **role-based access control** (Admin / Member).
 
 > **Live demo:** _add your Railway URL here after deploying_
-> **Repository:** _add your GitHub URL here_
+> **Repository:** https://github.com/Harshjakhar123/team-task-manager
 
 ---
 
